@@ -1,3 +1,4 @@
+> **[OpenA2A](https://github.com/opena2a-org/opena2a)**: [CLI](https://github.com/opena2a-org/opena2a) · [HackMyAgent](https://github.com/opena2a-org/hackmyagent) · [Secretless](https://github.com/opena2a-org/secretless-ai) · [AIM](https://github.com/opena2a-org/agent-identity-management) · [Browser Guard](https://github.com/opena2a-org/AI-BrowserGuard) · [DVAA](https://github.com/opena2a-org/damn-vulnerable-ai-agent)
 # Agent Identity Protocol (AIP)
 
 An open standard for AI agent identity, capabilities, and trust.
@@ -56,8 +57,7 @@ The [OpenA2A AIM Platform](https://github.com/opena2a-org/agent-identity-managem
 ## Related Standards
 
 - [ATP (Agent Trust Protocol)](https://github.com/opena2a-org/agent-trust-protocol) — ecosystem trust
-- [OASB (Open Agent Security Benchmark)](https://github.com/opena2a-org/open-agent-security-benchmark) — security controls
-- [CAAT (Content-Addressed Adaptive Trust)](https://github.com/opena2a-org/caat-framework) — scan infrastructure
+- [OASB (Open Agent Security Benchmark)](https://github.com/opena2a-org/oasb) — security controls
 
 ## License
 
